@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\bin\Debug\SqlFileConcatinator.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\bin\Debug\SqlFileConcatinator.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\bin\Debug\SqlFileConcatinator.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\bin\Debug\SqlFileConcatinator.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SqlFileConcatinator\SqlFileConcatinator\obj\Debug\SqlFileConcatinator.pdb
